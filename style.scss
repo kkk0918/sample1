@@ -921,6 +921,7 @@ body{
       padding-top: 55px;
       padding-bottom: 120px;
       background-attachment: fixed;
+      
       @include media(sm){
           padding-top: 40px;
           margin-top: 40px;
@@ -978,12 +979,13 @@ body{
  
  .question-header{
      @include media(md){
-        margin-bottom: 12px;
+       margin-bottom: 2px;
      }
      display: flex;
-     align-items: center;
+     
      font-weight: bold;
      position: relative;
+     
      @include media(sm){
          
      }
