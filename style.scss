@@ -315,7 +315,7 @@ body{
            
            padding: 0 16px;
            height: 667px;
-           background: url(/img/mv@2x.png)  22% center / cover;
+           background: url(img/mv@2x.png)  22% center / cover;
           
        }
       
@@ -917,7 +917,7 @@ body{
       
       margin-top: 120px;
       height: auto;
-      background: url(/img/qa-bg.png) center center / cover; 
+      background: url(img/qa-bg.png) center center / cover; 
       padding-top: 55px;
       padding-bottom: 120px;
       background-attachment: fixed;
@@ -1150,7 +1150,7 @@ body{
         }
         position: relative;
         margin: 0 auto;
-        background: url(/img/contact-bg@2x.png) center center / cover;
+        background: url(img/contact-bg@2x.png) center center / cover;
         box-sizing: content-box;
        
         &-inner{
@@ -1177,7 +1177,7 @@ body{
             max-width: 960px;
             margin: 0 auto;
             color: #fff;
-            background: url(/img/contact1.png) center center / cover;
+            background: url(img/contact1.png) center center / cover;
             border-radius: 12px 12px 0 0;
             @include media(sm){
                 padding: 34px 16px;

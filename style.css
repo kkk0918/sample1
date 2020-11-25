@@ -291,7 +291,7 @@ body {
     max-width: 767px;
     padding: 0 16px;
     height: 667px;
-    background: url(/img/mv@2x.png) 22% center/cover;
+    background: url(img/mv@2x.png) 22% center/cover;
   }
 }
 
@@ -1220,7 +1220,7 @@ th .table-first {
 .contactUs {
   position: relative;
   margin: 0 auto;
-  background: url(/img/contact-bg@2x.png) center center/cover;
+  background: url(img/contact-bg@2x.png) center center/cover;
   box-sizing: content-box;
 }
 
@@ -1264,7 +1264,7 @@ th .table-first {
   max-width: 960px;
   margin: 0 auto;
   color: #fff;
-  background: url(/img/contact1.png) center center/cover;
+  background: url(img/contact1.png) center center/cover;
   border-radius: 12px 12px 0 0;
 }
 
